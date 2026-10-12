@@ -32,6 +32,8 @@ MODULES = {
 		"Timesheet and Attendance",
 		"Payroll",
 		"HR Setup",
+		"Expense Management",
+		"Performance and Growth",
 	],
 }
 
